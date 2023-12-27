@@ -1,0 +1,12 @@
+[submodule "hono-api-starter-typescript-deno"]
+	path = hono-api-starter-typescript-deno
+	url = https://github.com/carlosfernandezcabrero/hono-api-starter-typescript-deno
+[submodule "hono-api-starter-typescript-node"]
+	path = hono-api-starter-typescript-node
+	url = https://github.com/carlosfernandezcabrero/hono-api-starter-typescript-node
+[submodule "express-api-starter"]
+	path = express-api-starter
+	url = https://github.com/carlosfernandezcabrero/express-api-starter
+[submodule "flask-api-starter"]
+	path = flask-api-starter
+	url = https://github.com/carlosfernandezcabrero/flask-api-starter
